@@ -1,0 +1,2 @@
+Student [name=deepu, age=19, percentage=90.0]
+Student [name=hindu, age=6, percentage=90.0]
